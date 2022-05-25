@@ -1,4 +1,4 @@
-package com.initMe;
+package com.initMe.javabase;
 
 /**
  * Hello world!
